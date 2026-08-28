@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+coverage/
+*.db
+*.db-journal
+pytest_cache/
+__pycache__/
+.venv/
